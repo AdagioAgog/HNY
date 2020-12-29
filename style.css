@@ -19,9 +19,9 @@ body {
 
 h1{
     font-weight: normal;
-    font-size: 1rem;
+    font-size: 1.5rem;
    /* margin-top: -10rem;*/
-    margin-right: 22rem;
+    margin-right: 16rem;
     color: rgb(247, 244, 244);
     margin-top: 6rem;
 }
@@ -35,7 +35,7 @@ h1{
 
 .big-text{
     font-weight: bold;
-    font-size: 6rem;
+    font-size: 3rem;
     line-height: 1;
     margin:1rem 2rem;
     color: rgb(250, 243, 243);
@@ -47,6 +47,6 @@ h1{
 }
 
 .countdown-el span{
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: rgb(255, 253, 253);
 }
